@@ -1,6 +1,6 @@
 # NoteApp
 
-Code issu de la vidéo Youtube "[MVVM avec LiveData, Flow et Coroutines]https://youtu.be/YleY17Bgq6s)"
+Code issu de la vidéo Youtube "[MVVM avec LiveData, Flow et Coroutines](https://youtu.be/YleY17Bgq6s)"
 
 ---
 
